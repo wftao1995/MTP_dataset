@@ -1,10 +1,9 @@
 # Training and validation sets
 
-train.cfg: Training dataset 
+train.{1,2}.xyz: Training dataset 
 
-valid.cfg: Validation dataset 
+valid.xyz: Validation dataset 
 
-fit.ini: Fitting parameters
+potential.mtp: MTP potential file, type 0 is Al, type 1 is Ni
 
-index.map: Index file for each type. Each line corresponds to an element ID, starting from 0
 
